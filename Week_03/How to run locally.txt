@@ -1,0 +1,31 @@
+
+https://jovian.ai/learn/machine-learning-with-python-zero-to-gbms/lesson/linear-regression-with-scikit-learn
+
+Run locally on your computer --> option - Run Locally (Clone)
+
+Anaconda Powershell Prompt --> (base) PS C:\Users\unpat>
+
+1. Install the Jovian python library (one-time):
+  pip install jovian --upgrade
+
+2. Download the notebook and associated files:
+  python -m jovian clone aakashns/python-sklearn-linear-regression 
+  cd python-sklearn-linear-regression
+
+3. Create a virtual environment using conda:
+conda create -n python-sklearn-linear-regression jupyter
+
+4. Activate the environment and start the Jupyter notebook:
+conda activate python-sklearn-linear-regression
+jupyter notebook
+
+Facing issues? --> https://docs.jovian.ai/docs/user-guide/reproduce.html
+
+
+
+
+
+
+
+
+
