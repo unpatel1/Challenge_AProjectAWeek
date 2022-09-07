@@ -8,6 +8,7 @@ These projects would be,
 -- Projects from YouTube, Jovian, Udemy or other similar sources
 -- A course from Coursera, Udemy... the course could be any topic from DA, DS, ML, DL, AI...
 -- Case studies
+-- Projects on Python development, SQL
 
 My goals:
 -- To start a project on every Monday
@@ -19,6 +20,8 @@ My goals:
    * Data Science
    * Deep Learning
    * Artificial Intelligence
+   * Python development
+   * SQL
 
 I may add more topics in the future.
 
