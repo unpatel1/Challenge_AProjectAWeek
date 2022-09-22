@@ -1,7 +1,7 @@
 Umesh Patel's Challenge || Started on July 26, 2022
-Challenge: #AProjectAWeek (A Project A Week)
+Challenge: AProjectAWeek (A Project A Week)
 
-I have gained theoretical basics in DA, DS, ML, DL, AI thru online sources. This is my open ended challenge to do a minimum of one project a week using the knowledge that I have gained.
+I have gained theoretical understanding in DA, DS, ML, DL, AI thru online sources. This is my open ended challenge to do a minimum of one project a week using the knowledge that I have gained.
 
 These projects would be,
 -- My own projects of data available from Kaggle or other free data sources
