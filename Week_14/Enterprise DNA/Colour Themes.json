@@ -1,0 +1,13 @@
+{ 
+
+"name":"Ceres", 
+
+"dataColors":["#373545","#3494BA","#58B6C0","#75BDA7","#7A8C8E","#84ACB6","#2683C6","#134162"], 
+
+"background":"#000000", 
+
+"foreground":"#000000", 
+
+"tableAccent":"#000000" 
+
+} 
